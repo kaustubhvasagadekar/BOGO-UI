@@ -111,6 +111,9 @@ body {
 
 }
 
+input[type="radio"] {
+    accent-color: #ff4e83;
+}
 .left-content {
     display: flex;
     flex-direction: column;
